@@ -1,5 +1,5 @@
 # rhok
-Object Recognition & Text to Speech Conevrsion for Assitive Technologies (Blind)
+Object Recognition & Text to Speech Conversion for Assitive Technologies (Blind)
 
 Problem Statement: Persons with blindness have difficulties identifying what is in front of them without touching or asking someone. This creates challenges, especially when there's no one to assist or if the object in front of them is not to be touched. Solution should understand the requirements of the users and building an image recognition system. (By SRI Labs)
 
