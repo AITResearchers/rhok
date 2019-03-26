@@ -18,7 +18,7 @@ Try connecting Pi3 Bluetooth Manager to the mobile device.
 ## Contributors:
 * **SANDEEP KUMAR**
 * **KRUTHIKA K R**
-* **BHARGAV R**  [Brackets on Slack](https://github.com/Bhargava10)
+* **BHARGAV R**  [GitHub profile](https://github.com/Bhargava10)
 * **Md FAIZAL SA** 
 * **AISWARYA V** 
 * **ABHAY PATEL** 
