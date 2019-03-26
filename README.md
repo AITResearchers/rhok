@@ -8,9 +8,8 @@
 * The programs are available in the programs-pi folder
 * Copy rd.py and cam_find.py in any directory in the raspberry pi ( note: both files should be in the same directory)
 * Run rd.py in the Python 2.7 terminal
-
-The Raspberry pi has to be connected to the same Wifi network as the mobile device on which the IP Cam find will be running.
-Try connecting Pi3 Bluetooth Manager to the mobile device.
+* The Raspberry pi has to be connected to the same Wifi network as the mobile device on which the IP Cam find will be running.
+* Try connecting Pi3 Bluetooth Manager to the mobile device.
 
 ## Release history:
 0.0.1 First version
