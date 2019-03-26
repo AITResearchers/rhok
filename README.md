@@ -16,10 +16,11 @@ Try connecting Pi3 Bluetooth Manager to the mobile device.
 0.0.1 First version
 
 ## Contributors:
-* **SANDEEP KUMAR**
-* **KRUTHIKA K R**
-* **BHARGAV R**  [GitHub profile](https://github.com/Bhargava10)
-* **Md FAIZAL SA** 
-* **AISWARYA V** 
-* **ABHAY PATEL** 
-* **ASHWIN RAIKAR** 
+* *SANDEEP KUMAR*
+* *KRUTHIKA K R*
+* *BHARGAV R**
+* **[GitHub profile](https://github.com/Bhargava10)**
+* *Md FAIZAL SA* 
+* *AISWARYA V* 
+* *ABHAY PATEL* 
+* *ASHWIN RAIKAR* 
