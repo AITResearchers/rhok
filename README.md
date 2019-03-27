@@ -20,5 +20,5 @@
 * *BHARGAV R* [GitHub profile](https://github.com/Bhargava10)
 * *Md FAIZAL SA* 
 * *AISWARYA V* 
-* *ABHAY PATEL* 
-* *ASHWIN RAIKAR* 
+* *ABHAY PATEL* [GitHub profile](https://github.com/ABHAY-PATEL)
+* *ASHWIN RAIKAR* [GitHub profile](https://github.com/AshwinRaikar88)
